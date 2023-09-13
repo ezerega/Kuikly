@@ -30,10 +30,10 @@ const background = {
 const divider = "#E6E8F0";
 
 const primary = {
-  main: "#039D55",
-  deep: "#288258",
+  main: "#ff4c00",
+  deep: "#006BB6",
   light: "#55e8a0",
-  dark: "#1c6641",
+  dark: "#006BB6",
   semiLight: "#E4FFF3",
   contrastText: "#FFFFFF",
   customType1: "#0DCB72",
