@@ -16,9 +16,9 @@ export const spain = {
   "Open Confirm Dialog": "افتح حوار التأكيد",
   "Confirm this request ? ": " تأكيد هذا الطلب؟",
 
-  Cancel: " يلغي ",
-  Yes: " نعم ",
-  Download: " تحميل ",
+  Cancel: " Cancelar ",
+  Yes: " Si ",
+  Download: " Descargar ",
   Filter: " منقي ",
   "Zone Name": "اسم المنطقة ",
   "What are you sending ?": "ماذا ترسل",
