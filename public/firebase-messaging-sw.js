@@ -6,12 +6,12 @@ importScripts(
 );
 // // Initialize the Firebase app in the service worker by passing the generated config
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
+  apiKey: "AIzaSyBvrckJaCyN2uqWP6KCDGBha-kIIVIylNs",
+  authDomain: "kuikly-7ae93.firebaseapp.com",
+  projectId: "kuikly-7ae93",
+  storageBucket: "kuikly-7ae93.appspot.com",
+  messagingSenderId: "446368829206",
+  appId: "1:446368829206:web:274af8c2c955be14d58a37",
   measurementId: "",
 };
 
