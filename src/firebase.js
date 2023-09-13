@@ -7,12 +7,12 @@ import {
 } from "firebase/messaging";
 
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
+  apiKey: "AIzaSyBvrckJaCyN2uqWP6KCDGBha-kIIVIylNs",
+  authDomain: "kuikly-7ae93.firebaseapp.com",
+  projectId: "kuikly-7ae93",
+  storageBucket: "kuikly-7ae93.appspot.com",
+  messagingSenderId: "446368829206",
+  appId: "1:446368829206:web:274af8c2c955be14d58a37",
   measurementId: "",
 };
 const firebaseApp = !getApps().length
@@ -32,7 +32,7 @@ const messaging = (async () => {
 
 export const fetchToken = async (setTokenFound, setFcmToken) => {
   return getToken(await messaging, {
-    vapidKey: "",
+    vapidKey: "BElZV_dNWJTB2CUkSNZrZtvnv6wY9OEDAvsO7FU5qOu1kaciLFnzRQwi3sSR2TkD-DmINJQgPukDm4UsXA1Mf5E",
   })
     .then((currentToken) => {
       if (currentToken) {
