@@ -213,7 +213,7 @@ export const spain = {
   "FIND BEST RESTAURANTS NEAR YOU": "ENCUENTRA LAS MEJORES OPCIONES PARA COMER CERCA DE TI",
   "Pick Form Map": "Seleccionar del mapa",
   "Set Location": "Colocar Ubicacion",
-  "Search location here...": "Ingrese su ubicacion...",
+  "Search location here...": "Ingresar ubicacion...",
   "Let Google help apps determine location This means sending anonymous location data to Google, even when no apps are running.":
     " Permita que Google ayude a la app determinar la ubicación. Esto significa enviar datos de ubicación anónimos a Google, incluso cuando la app no se este activa.",
   "Use Google's location service?": "¿Usar el servicio de ubicación de Google?",
@@ -564,7 +564,7 @@ export const spain = {
   Agree: "Aceptar",
   Close: "Cerrar",
   Favorites: "Favoritos",
-  "Pick from map": "Seleccinar del mapa",
+  "Pick from map": "Seleccionar del mapa",
   Or: "Or",
   TAX: "Impuesto",
   "Add-on": "Complementos (Extras)",
