@@ -224,7 +224,7 @@ const MapModal = ({
                     </IconButton>
                     <CustomStackFullWidth spacing={2}>
                         <Typography variant="h6">
-                            {t("Ingresa tu direccion o ubicala en el mapa")}
+                            {t("Type your address here or pick from map")}
                         </Typography>
                         <CustomStackFullWidth>
                             {loadingAuto ? (
@@ -262,7 +262,7 @@ const MapModal = ({
                                             frommap="true"
                                             label={null}
                                             {...params}
-                                            placeholder={t("Buscar direccion")}
+                                            placeholder={t("Search location")}
                                             onChange={(event) => {
                                                 setSearchKey(event.target.value);
                                                 if (event.target.value) {
@@ -376,7 +376,7 @@ const MapModal = ({
                                     variant="contained"
                                     onClick={() => handlePickLocationOnClick()}
                                 >
-                                    {t("Seleccionar Ubicacion")}
+                                    {t("Pick Locations")}
                                 </PrimaryButton>
                             )}
                         </CustomStackFullWidth>
