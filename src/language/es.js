@@ -724,7 +724,7 @@ export const spain  = {
   Okay: "Okay",
   Close: "Close",
   Favorites: "Favorites",
-  "Pick from map": "Pick from map",
+  "Pick from map": "Elegir en el mapa",
   Or: "Or",
   "Delivery Addresses": "Delivery Addresses",
   "VAT/TAX": "VAT/TAX",
