@@ -1,18 +1,18 @@
 export const spain  = {
   "Valid till": "Valido hasta",
   get: "get",
-  "Theme Mode": "Elegir Tema",
-  "Search for products or store...": "Buscar productos o negocio",
-  "not now": "no ahora",
-  "Search for medicine or store...": "Buscar medicamento o farmacia",
-  "Search for grocery or store...`": "Buscar Abarrotes o tienda",
+  "Theme Mode": "Elegir Tema"
+  "Search for products or store...": "Buscar productos o negocio"
+  "not now": "no ahora"
+  "Search for medicine or store...": "Buscar medicamento o farmacia"
+  "Search for grocery or store...`": "Buscar Abarrotes o tienda"
   "Extra on Every Add Fund": "Extra on Every Add Fund",
   "fund to get max of": "fund to get max of",
-  "If product is not available": "Producto no disponible en este momento",
+  "If product is not available": "Producto no disponible en este momento"
   "Has  paid by your wallet.": "Has  paid by your wallet.",
   "Wallet Payment": "Wallet Payment",
-  "Track your Products": "Rastrea tus productos",
-  "Start a new message": "Inicia un nuevo mensaje",
+  "Track your Products": "Rastrea tus productos"
+  "Start a new message": "Inicia un nuevo mensaje"
   "Do you want to use now?": "Do you want to use now?",
   "Choose Payment Method": "Elije un metodo de pago",
   "(Choose Payment Method)": "(Elije un metodo de pago)",
