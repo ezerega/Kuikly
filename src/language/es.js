@@ -1,7 +1,7 @@
 export const spain  = {
   "Valid till": "Valido hasta",
   get: "get",
-  "Theme Mode": "Elegir Tema"
+  "Theme Mode": "Elegir Tema",
   "Search for products or store...": "Buscar productos o negocio",
   "not now": "no ahora",
   "Search for medicine or store...": "Buscar medicamento o farmacia",
