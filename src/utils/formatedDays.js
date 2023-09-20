@@ -1,6 +1,7 @@
 import moment from "moment";
 
-export const currentDate = moment().format("YYYY/MM/DD HH:mm");
+//export const currentDate = moment().format("YYYY/MM/DD HH:mm");
+export const currentDate = moment().format("YYYY-MM-DDTHH:mm:ssZ");
 export const nextday = moment(currentDate).add(1, "days").format("YYYY/MM/DD");
 
 export const today = moment(currentDate).format("dddd");
