@@ -7,7 +7,7 @@ import {
 } from "firebase/messaging";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBvrckJaCyN2uqWP6KCDGBha-kIIVIylNs",
+  apiKey: "AIzaSyDDgm-HrYZfxrdi7g_zn6nbDg19e9TE8m0",
   authDomain: "kuikly-7ae93.firebaseapp.com",
   projectId: "kuikly-7ae93",
   storageBucket: "kuikly-7ae93.appspot.com",
